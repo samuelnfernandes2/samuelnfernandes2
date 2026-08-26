@@ -33,11 +33,10 @@
   <a href="https://www.instagram.com/samuel.n.fernandes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://gmail.com/Samuel-Fernandes" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/Samuel-Fernandes" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-fernandes-2b1488210/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -47,4 +46,3 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/samuelnfernandes2/samuelnfernandes2/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
