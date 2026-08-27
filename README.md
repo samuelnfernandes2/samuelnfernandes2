@@ -82,13 +82,11 @@ Projects focused on:
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuelnfernande2&show_icons=true&theme=tokyonight&hide_border=true" />
+  💻 Building projects and improving my programming skills every day.
 </p>
-
 ---
 
 ## 📫 Connect With Me
