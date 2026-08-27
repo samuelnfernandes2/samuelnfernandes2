@@ -87,6 +87,8 @@ Projects focused on:
 <p align="center">
   💻 Building projects and improving my programming skills every day.
 </p>
+
+
 ---
 
 ## 📫 Connect With Me
